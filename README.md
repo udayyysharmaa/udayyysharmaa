@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Coforge Software Engineer, MBA, 1.5+ AWS years, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
-
-<img style="display: block; margin: 0 auto;"  src="https://camo.githubusercontent.com/29783f29940bd7d6d26e82f73a0f7f7c13aaa154f44f628f738951d81c3a6f9f/68747470733a2f2f67617272792e62686174742e616c2f6173736574732f696d616765732f323032302d30372d31362f6465766f70732e676966">
+<img style="display: block; margin: 0 auto;"  src="https://www.edureka.co/blog/wp-content/uploads/2016/08/Blog-Image-for-Pokemon-Go-A.gif">
 
 <p><img width="480" align="right" src="https://github-readme-stats.vercel.app/api?username=al-one&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true"> I am a highly skilled and motivated DevOps Engineer with over 1.5+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a proven ability to apply DevOps principles and practices to improve efficiency, and I possess expertise in CI/CD pipelines, infrastructure as code, and DevOps tools.
 
@@ -17,7 +16,7 @@ Another significant project I worked on involved setting up a Jenkins CI/CD pipe
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/udayyysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayyysharma" height="30" width="40" /></a>  <a href="https://instagram.com/udayyysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayyysharma" height="30" width="40" /></a>
-<a href="https://hashnode.com/devopswithuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devopswithuday" height="30" width="40" /></a>
+<a href="https://udayyysharma.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devopswithuday" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Technical Skills</h1>
