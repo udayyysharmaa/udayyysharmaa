@@ -1,6 +1,7 @@
+<img style="display: block; margin: 0 auto;"  src="https://www.edureka.co/blog/wp-content/uploads/2016/08/Blog-Image-for-Pokemon-Go-A.gif">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Coforge Software Engineer, MBA, 2 years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
-<img style="display: block; margin: 0 auto;"  src="https://www.edureka.co/blog/wp-content/uploads/2016/08/Blog-Image-for-Pokemon-Go-A.gif">
+
 
 <p><img width="480" align="right" src="https://github-readme-stats.vercel.app/api?username=al-one&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_title=true"> I am a highly skilled and motivated DevOps Engineer with over 1.5+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a proven ability to apply DevOps principles and practices to improve efficiency, and I possess expertise in CI/CD pipelines, infrastructure as code, and DevOps tools.
 
