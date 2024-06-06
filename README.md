@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto;"  src="https://www.edureka.co/blog/wp-content/uploads/2016/08/Blog-Image-for-Pokemon-Go-A.gif">
+<img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/main/Uday%20Sharma.gif">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Coforge Software Engineer, MBA, 2 years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
 
