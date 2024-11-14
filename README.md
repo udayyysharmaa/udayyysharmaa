@@ -63,7 +63,7 @@
 <h1 align="left">Technical Skills</h1>
 
 
-<h3 align="left">Language And Scripting</h3><img width="480" align="right" src="https://www.google.com/url sa=i&url=https%3A%2F%2Fgithub.com%2FMSNoorul&psig=AOvVaw1wg4DolREw1MEteG-cgEaH&ust=1731672312514000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDIoZvk24kDFQAAAAAdAAAAABAJ">
+<h3 align="left">Language And Scripting</h3><img width="480" align="right" src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/ppp.gif">
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXiu0cUxv7D6wV8Uuxmr3XAWwv-04-cX7I4QV8HzhtA&s" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="python" width="40" height="40"/> </a> 
 
