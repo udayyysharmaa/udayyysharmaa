@@ -6,11 +6,11 @@
 <h1>About Me</h1>
 <p>I am a <strong>highly skilled and motivated DevOps Engineer</strong> with over 2+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a strong foundation in DevOps principles and practices, which I leverage to enhance operational efficiency and deliver high-quality solutions. My technical expertise spans <strong>CI/CD pipelines</strong>, <strong>infrastructure as code</strong>, and various DevOps tools.</p>
 
-<h2>Key Skills & Technologies</h2>
+<h2>Key Skills & Technologies</h2> <img width="370" align="right" src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/devopimage.gif">
 <ul>
-            <li><strong>Cloud Technologies</strong>: AWS, Azure</li>
+            <li><strong>Cloud Technologies</strong>: AWS, Azure</li> 
             <li><strong>Containerization</strong>: Docker, Kubernetes</li>
-            <li><strong>CI/CD Tools</strong>: Jenkins, AWS CI/CD, Git, GitHub</li>
+            <li><strong>CI/CD Tools</strong>: Jenkins, AWS CI/CD, Git, GitHub and GitLab CI/CD</li>
             <li><strong>Scripting Languages</strong>: Shell, Python</li>
             <li><strong>Build Tools</strong>: Maven</li>
             <li><strong>Infrastructure as Code</strong>: Terraform</li>
