@@ -1,18 +1,59 @@
-<img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/Uday%20Sharma.gif">
+<img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/Grey%20Minimalist%20Business%20Linkedin%20Banner.png">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
-<h3 align="center">Coforge Software Engineer, MBA, 2+ years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
+<h3 align="center">Coforge Senior Software Engineer, MBA, 2+ years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
 
 
-<p>I am a highly skilled and motivated DevOps Engineer with over 2+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a proven ability to apply DevOps principles and practices to improve efficiency, and I possess expertise in CI/CD pipelines, infrastructure as code, and DevOps tools.
+<h1>About Me</h1>
+<p>I am a <strong>highly skilled and motivated DevOps Engineer</strong> with over 2+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a strong foundation in DevOps principles and practices, which I leverage to enhance operational efficiency and deliver high-quality solutions. My technical expertise spans <strong>CI/CD pipelines</strong>, <strong>infrastructure as code</strong>, and various DevOps tools.</p>
 
-Throughout my career, I have demonstrated strong DevOps knowledge and a hardworking attitude, which has enabled me to deliver high-quality results in fast-paced environments. My technical skills include proficiency in cloud technologies such as AWS and Azure, build tools like Maven, container technologies like Docker and Kubernetes, scripting languages like Shell and Python, version control systems like Git and GitHub, configuration management tools like Ansible, infrastructure code tools like Terraform, and CI/CD tools like Jenkins and AWS CI/CD.
+<h2>Key Skills & Technologies</h2>
+<ul>
+            <li><strong>Cloud Technologies</strong>: AWS, Azure</li>
+            <li><strong>Containerization</strong>: Docker, Kubernetes</li>
+            <li><strong>CI/CD Tools</strong>: Jenkins, AWS CI/CD, Git, GitHub</li>
+            <li><strong>Scripting Languages</strong>: Shell, Python</li>
+            <li><strong>Build Tools</strong>: Maven</li>
+            <li><strong>Infrastructure as Code</strong>: Terraform</li>
+            <li><strong>Configuration Management</strong>: Ansible</li>
+            <li><strong>Monitoring</strong>: Grafana, Prometheus</li>
+            <li><strong>Security & Code Quality</strong>: SonarQube, Trivy, OWASP tools</li>
+</ul>
 
-As a seasoned DevOps Engineer, I have had the opportunity to work on several notable projects. One of my most recent projects involved deploying a three-tier application on AWS EKS (Managed Kubernetes Service). In this project, I utilized Kubernetes for orchestrating the application containers, AWS ALB for load balancing, and integrated domain management for accessibility. My responsibilities included creating Dockerfiles for the ReactJS and NodeJS components, building the images, and storing them in AWS ECR. I also deployed the Docker images to AWS EKS, configured the front-end, back-end, and database services to communicate with each other, and set up an Ingress controller for external access.
 
-Another significant project I worked on involved setting up a Jenkins CI/CD pipeline for a Node.js application with a focus on DevSecOps practices. In this project, I containerized the application using Docker, orchestrated with Docker Compose, integrated SonarQube for automated code quality checks, used OWASP tools for automated security testing, and implemented Trivy for Docker image vulnerability scanning. My goal was to automate the deployment process while ensuring high standards of code quality, security, and best development practices.</p> 
+<h2>Project Highlights</h2>
+      <h3>Three-Tier Application Deployment on AWS EKS</h3>
+        <ul>
+            <li>Deployed a robust three-tier application using AWS EKS (Managed Kubernetes Service) for container orchestration.</li>
+            <li>Configured AWS Application Load Balancer (ALB) for load balancing and integrated domain management for easy accessibility.</li>
+            <li>Created and deployed Docker images for ReactJS and NodeJS components to <strong>AWS Elastic Container Registry (ECR)</strong>.</li>
+            <li>Set up services for front-end, back-end, and database communication, with an Ingress controller for external access.</li>
+        </ul>
+        <h3>DevSecOps Pipeline for Node.js Application</h3>
+        <ul>
+            <li>Designed a <strong>Jenkins CI/CD pipeline</strong> focusing on DevSecOps practices for a Node.js application.</li>
+            <li>Containerized the application with Docker and orchestrated it using Docker Compose.</li>
+            <li>Integrated <strong>SonarQube</strong> for automated code quality checks and <strong>OWASP tools</strong> for security testing.</li>
+            <li>Conducted vulnerability scans on Docker images using Trivy, ensuring adherence to high standards of code quality, security, and best practices.</li>
+        </ul>
+   
 
+<h2>Education & Certifications</h2>
+   <ul>
+            <li><strong>B.Tech in Electronics & Communication Engineering</strong> from AKTU, Gr. Noida - 7.2 SGPA</li>
+            <li><strong>Certifications</strong>:
+                <ul>
+                    <li>AZ-900: Azure Fundamentals Certification</li>
+                    <li>“Complete DevOps Zero to Hero” Course</li>
+                </ul>
+            </li>
+ </ul>
+  
 
-
+<h2>Recognition & Contributions</h2>
+<ul>
+            <li>Awarded a <strong>certificate of commendation</strong> for leadership in solving complex tasks and providing exceptional client support.</li>
+            <li>Improved user retention by 25% in AWS projects through targeted optimization.</li>
+</ul>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
@@ -22,7 +63,7 @@ Another significant project I worked on involved setting up a Jenkins CI/CD pipe
 <h1 align="left">Technical Skills</h1>
 
 
-<h3 align="left">Language And Scripting</h3><img width="480" align="right" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3 align="left">Language And Scripting</h3><img width="480" align="right" src="https://www.google.com/url sa=i&url=https%3A%2F%2Fgithub.com%2FMSNoorul&psig=AOvVaw1wg4DolREw1MEteG-cgEaH&ust=1731672312514000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDIoZvk24kDFQAAAAAdAAAAABAJ">
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXiu0cUxv7D6wV8Uuxmr3XAWwv-04-cX7I4QV8HzhtA&s" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" alt="python" width="40" height="40"/> </a> 
 
