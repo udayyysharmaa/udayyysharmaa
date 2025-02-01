@@ -1,10 +1,10 @@
 <img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/Grey%20Minimalist%20Business%20Linkedin%20Banner.png">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
-<h3 align="center">Coforge Senior Software Engineer, MBA, 2+ years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
+<h3 align="center">Coforge Senior Software Engineer, MBA, 2.5+ years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
 
 
 <h1>About Me</h1>
-<p>I am a <strong>highly skilled and motivated DevOps Engineer</strong> with over 2+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a strong foundation in DevOps principles and practices, which I leverage to enhance operational efficiency and deliver high-quality solutions. My technical expertise spans <strong>CI/CD pipelines</strong>, <strong>infrastructure as code</strong>, and various DevOps tools.</p>
+<p>I am a <strong>highly skilled and motivated DevOps Engineer</strong> with over 2.5+ years of experience in designing, implementing, and managing DevOps processes and tools. I have a strong foundation in DevOps principles and practices, which I leverage to enhance operational efficiency and deliver high-quality solutions. My technical expertise spans <strong>CI/CD pipelines</strong>, <strong>infrastructure as code</strong>, and various DevOps tools.</p>
 
 <h2>Key Skills & Technologies</h2> <img width="370" align="right" src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/devopimage.gif">
 <ul>
