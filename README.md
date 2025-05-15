@@ -60,10 +60,13 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/udayyysharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayyysharma" height="30" width="40" /></a> <a href="https://udayyysharma.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="devopswithuday" height="30" width="40" /></a>
-</p>
+</p><br><br><br>
 
 
-<p>In addition to my technical skills and project experience, I hold a B.Tech in Electronics & Communication Engineering from AKTU, Gr. Noida, with a 7.2 SGPA. I have also completed my XII (Senior Secondary) from UP Board, Greater Noida Uttar Pradesh, with 81.8%, and X (Secondary) from UP Board, Greater Noida Uttar Pradesh, with 81.3%. Furthermore, I have achieved the AZ-900 certification, demonstrating proficiency in Azure fundamentals and cloud concepts, and I have been responsible for delivering end-to-end technical assistance across a wide range of systems and platforms. My role has primarily focused on providing 24x7 IT support, managing service requests and incidents, and ensuring the smooth operation of IT infrastructure for both Windows and Linux environments.
+
+
+<h1 align="left">Excutive Profile:</h1>
+<p>My technical skills and project experience, I hold a B.Tech in Electronics & Communication Engineering from AKTU, Gr. Noida, with a 7.2 SGPA. I have also completed my XII (Senior Secondary) from UP Board, Greater Noida Uttar Pradesh, with 81.8%, and X (Secondary) from UP Board, Greater Noida Uttar Pradesh, with 81.3%. Furthermore, I have achieved the AZ-900 certification, demonstrating proficiency in Azure fundamentals and cloud concepts, and I have been responsible for delivering end-to-end technical assistance across a wide range of systems and platforms. My role has primarily focused on providing 24x7 IT support, managing service requests and incidents, and ensuring the smooth operation of IT infrastructure for both Windows and Linux environments.
 
 One of my core responsibilities has been working with the ServiceNow ticketing system to manage and resolve incidents and service requests. I handle incoming tickets, prioritize them based on urgency and impact, and ensure timely resolution in accordance with service level agreements (SLAs). I have consistently exceeded performance targets, resolving over 95% of tickets within the first 24 hours, surpassing the company’s benchmark of 85%. This has significantly contributed to improved user satisfaction and operational efficiency.
 
