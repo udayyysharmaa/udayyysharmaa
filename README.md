@@ -43,6 +43,10 @@
 <h2>Education & Certifications</h2>
    <ul>
             <li><strong>B.Tech in Electronics & Communication Engineering</strong> from AKTU, Gr. Noida - 7.2 SGPA</li>
+            <li>XII (Senior Secondary) from UP Board, Greater Noida Uttar Pradesh [2017-18] with 81.8%.</li>
+            <li>X (Secondary) from UP Board, Greater Noida Uttar Pradesh [2015-16] with 81.3%.</li><br><br><br> 
+
+
             <li><strong>Certifications</strong>:
                 <ul>
                     <li>AZ-900: Azure Fundamentals Certification</li>
