@@ -38,10 +38,7 @@
             <li>Developed and implemented a centralized project management platform, improving team communication and increasing project efficiency by 25%.</li>
             <li>Assisted team members during live calls with troubleshooting, ticket handling, and technical escalations.</li>
             <li>Installed, configured, and updated software applications, ensuring system stability and user productivity.</li>
-            <li>Maintained accurate documentation of technical issues, resolutions, and asset inventory for audit and compliance purposes.</li>
-
-            
-        </ul>
+            <li>Maintained accurate documentation of technical issues, resolutions, and asset inventory for audit and compliance purposes.</li> </ul>
 
 <h2>Education & Certifications</h2>
    <ul>
