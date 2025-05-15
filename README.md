@@ -44,17 +44,16 @@
    <ul>
             <li><strong>B.Tech in Electronics & Communication Engineering</strong> from AKTU, Gr. Noida - 7.2 SGPA</li>
             <li>XII (Senior Secondary) from UP Board, Greater Noida Uttar Pradesh [2017-18] with 81.8%.</li>
-            <li>X (Secondary) from UP Board, Greater Noida Uttar Pradesh [2015-16] with 81.3%.</li></ul><br><br><br>
-
-
-            <li><strong>Certifications</strong>:
-                <ul>
-                    <li>AZ-900: Azure Fundamentals Certification</li>
-                    <li>Received FY 2023 Excellence Award for providing effective solutions to clients and resolving the highest number of tickets within the team.</li>
-                    <li>Recognized for leading the team to solve complex tasks efficiently and providing exemplary support to clients, earning a certificate of commendation.</li>
-                </ul>
-            </li>
- </ul>
+            <li>X (Secondary) from UP Board, Greater Noida Uttar Pradesh [2015-16] with 81.3%.</li></ul><br><br>
+            <ul>
+                        <li><strong>Certifications</strong>:
+                                    <ul>
+                                                <li>AZ-900: Azure Fundamentals Certification</li>
+                                                <li>Received FY 2023 Excellence Award for providing effective solutions to clients and resolving the highest number of tickets within the team.</li>
+                                                <li>Recognized for leading the team to solve complex tasks efficiently and providing exemplary support to clients, earning a certificate of commendation.</li>
+                                    </ul>
+                        </li>
+            </ul>
   
 
 
