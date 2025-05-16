@@ -6,7 +6,7 @@
 <h1>About Me</h1>
 <p>I am a <strong>Software Engineer at Coforge</strong> leading the R1RCM Healthcare IT and Asset Management Project. Demonstrated expertise in providing end-to-end IT support, asset lifecycle management, and remote troubleshooting services for a large-scale healthcare client. Proven ability to reduce system downtime, enhance team collaboration, and exceed technical support KPIs, contributing to improved operational efficiency and user satisfaction.</p>
 
-<h2>Key Skills & Technologies</h2> <img width="370" align="right" src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/devopimage.gif">
+<h2>Key Skills & Technologies</h2> <img width="370" align="right" src="https://conceptinteriorstudio.com/images/popup.gif">
 <ul>
             <li><strong>IT Service Management (ITSM):</strong> ServiceNow (Incident & Service Request Handling).</li>
             <li><strong>Cloud:</strong> Aws/Azure.</li>
