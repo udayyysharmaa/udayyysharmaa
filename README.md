@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/Grey%20Minimalist%20Business%20Linkedin%20Banner.png">
+<img style="display: block; margin: 0 auto;"  src="1781418228706.jpg">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Senior Associate at Coforge | IT Support Engineer | ServiceNow Specialist | Technical Support | Azure Fundamentals | Troubleshooting & IT Operations | 4+ years hands-on experience in IT-Support and Operation Team.</h3>
 
