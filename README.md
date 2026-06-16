@@ -1,10 +1,15 @@
 <img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/master/Grey%20Minimalist%20Business%20Linkedin%20Banner.png">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
-<h3 align="center">Senior Software Engineer | Remote IT Support & Troubleshooting, ServiceNow Ticketing System | ServiceNow Developer | Hardware/software diagnostics, System performance tuning | 2.11+ years hands-on experience in IT-Support and Operation Team.</h3>
+<h3 align="center">Senior Associate at Coforge | IT Support Engineer | ServiceNow Specialist | Technical Support | Azure Fundamentals | Troubleshooting & IT Operations | 4+ years hands-on experience in IT-Support and Operation Team.</h3>
 
 
 <h1>About Me</h1>
-<p>I am a <strong>Software Engineer at Coforge</strong> leading the R1RCM Healthcare IT and Asset Management Project. Demonstrated expertise in providing end-to-end IT support, asset lifecycle management, and remote troubleshooting services for a large-scale healthcare client. Proven ability to reduce system downtime, enhance team collaboration, and exceed technical support KPIs, contributing to improved operational efficiency and user satisfaction.</p>
+<p>I am a <strong>Software Engineer at Coforge</strong>. Results-driven IT Support Professional with 4+ years of experience delivering enterprise-level technical support, incident management, and operational excellence for global clients. Currently working as a Senior Associate at Coforge, supporting the R1RCM account in a 24x7 production environment while ensuring high availability, service reliability, and exceptional end-user experience.</p>
+<p>
+My professional journey has been centered around providing end-to-end IT support, troubleshooting complex technical issues, managing incidents and service requests through ServiceNow, and collaborating with cross-functional teams to maintain business continuity. Over the years, I have developed expertise in Windows and Linux environments, remote support technologies, hardware and software troubleshooting, user lifecycle management, asset management, and cloud fundamentals.
+</p>
+<p>
+I possess strong hands-on experience in ServiceNow ITSM processes, including Incident Management, Service Request Management, Ticket Prioritization, SLA Compliance, Escalation Management, and User Support Operations. My ability to analyze issues quickly, identify root causes, and provide effective resolutions has helped improve operational efficiency and enhance customer satisfaction.</p>
 
 <h2>Key Skills & Technologies</h2> <img width="370" align="right" src="https://conceptinteriorstudio.com/images/popup.gif">
 <ul>
