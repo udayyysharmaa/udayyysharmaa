@@ -4,7 +4,7 @@
 
 
 <h1>About Me</h1>
-<p>I am a <strong>Software Engineer at Coforge</strong>. Results-driven IT Support Professional with 4+ years of experience delivering enterprise-level technical support, incident management, and operational excellence for global clients. Currently working as a Senior Associate at Coforge, supporting the R1RCM account in a 24x7 production environment while ensuring high availability, service reliability, and exceptional end-user experience.</p>
+<p>I am a <strong>Senior Associate at Coforge</strong>. Results-driven IT Support Professional with 4+ years of experience delivering enterprise-level technical support, incident management, and operational excellence for global clients. Currently working as a Senior Associate at Coforge, supporting the R1RCM account in a 24x7 production environment while ensuring high availability, service reliability, and exceptional end-user experience.</p>
 <p>
 My professional journey has been centered around providing end-to-end IT support, troubleshooting complex technical issues, managing incidents and service requests through ServiceNow, and collaborating with cross-functional teams to maintain business continuity. Over the years, I have developed expertise in Windows and Linux environments, remote support technologies, hardware and software troubleshooting, user lifecycle management, asset management, and cloud fundamentals.
 </p>
